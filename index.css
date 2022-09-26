@@ -98,6 +98,9 @@ body{
   ;
   margin-bottom: 10px;
 }
+.data{
+  margin-bottom: 20px;
+}
 .ref{
   font-weight: bold;
   margin-bottom: 50px;
